@@ -1,0 +1,638 @@
+fileFormatVersion: 2
+guid: dba8eab0c07d60e4e9c5c175454f5f8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1195988690853643821
+    second: Predmety_0
+  - first:
+      213: 5481878852581489889
+    second: Predmety_1
+  - first:
+      213: -5335635158514691627
+    second: Predmety_2
+  - first:
+      213: -5653950248580145475
+    second: Predmety_3
+  - first:
+      213: 38713977794788614
+    second: Predmety_4
+  - first:
+      213: 4413551539879040955
+    second: Predmety_5
+  - first:
+      213: -4934126313177962722
+    second: Predmety_6
+  - first:
+      213: 60235950394098200
+    second: Predmety_7
+  - first:
+      213: -6953317629731530265
+    second: Predmety_8
+  - first:
+      213: -1048284587368323943
+    second: Predmety_9
+  - first:
+      213: 2945544394669546485
+    second: Predmety_10
+  - first:
+      213: 1352220983375252279
+    second: Predmety_11
+  - first:
+      213: -4297843379446026484
+    second: Predmety_12
+  - first:
+      213: 1188221574592186260
+    second: Predmety_13
+  - first:
+      213: 312518632396942448
+    second: Predmety_14
+  - first:
+      213: -4570539533067271928
+    second: Predmety_15
+  - first:
+      213: -9079009416511999746
+    second: Predmety_16
+  - first:
+      213: -7626348797860743991
+    second: Predmety_17
+  - first:
+      213: -2557087998059054291
+    second: Predmety_18
+  - first:
+      213: 261190320388754015
+    second: Predmety_19
+  - first:
+      213: 2587656626276596923
+    second: Predmety_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Predmety_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3289
+        width: 402
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618ea1cc2a5ae245ad64651d63cf471
+      internalID: 1195988690853643821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3345
+        width: 345
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50a39adf89da194a81dfd84b10f96be
+      internalID: 5481878852581489889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_2
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3347
+        width: 343
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec33a0e49c7e854fa832a1bd1604d52
+      internalID: -5335635158514691627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_3
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3347
+        width: 344
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc7b0bd4bbc624eb8017ff6750aaf1
+      internalID: -5653950248580145475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_4
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 3347
+        width: 343
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c426b97e1b21649b91d1a99d999dbe
+      internalID: 38713977794788614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2710
+        width: 406
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c1e9c35a105448b4a89f7b070d2c2
+      internalID: 4413551539879040955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2119
+        width: 501
+        height: 1114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbfb82e0e66e994b99c8a9489503b84
+      internalID: -4934126313177962722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_7
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 2612
+        width: 1149
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58355507fd95d094283c1fef08d8abe8
+      internalID: 60235950394098200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_8
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1484
+        width: 466
+        height: 1142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a1fc497695df4591baec56b6824cc
+      internalID: -6953317629731530265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_9
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1996
+        width: 1088
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ebc547734d48140a1363e409218ada
+      internalID: -1048284587368323943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 600
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3338df10949e404ab725fb0bceef0ff
+      internalID: 2945544394669546485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1368
+        width: 699
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21f6f85ced7a704a9bf15110cadd37a
+      internalID: 1352220983375252279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_12
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1368
+        width: 599
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f47a7ad74457408a845e08c01c32d
+      internalID: -4297843379446026484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 845
+        width: 320
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7ce4f368cb6714a95c71e419aa849e
+      internalID: 1188221574592186260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_14
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 848
+        width: 320
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0066533342e4a42ad93332419cb10e
+      internalID: 312518632396942448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_15
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 765
+        width: 599
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9060a95567d7fb4183f66cf52e5295a
+      internalID: -4570539533067271928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_16
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 229
+        width: 601
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f868eec8746d549b82117bf011e960
+      internalID: -9079009416511999746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 399
+        width: 318
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc30f099a6aa1ae4ea3672e4087b390d
+      internalID: -7626348797860743991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_18
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 403
+        width: 318
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585193e06bb5444b80a09bf59509b3b
+      internalID: -2557087998059054291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_19
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 434
+        width: 347
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5bf4a894386b4ab2eb97e2b24361d
+      internalID: 261190320388754015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Predmety_20
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 432
+        width: 347
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c599ef8c25124b8eff8f4c7314481
+      internalID: 2587656626276596923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0189fbdc7588d804ea35e3af5219293c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
