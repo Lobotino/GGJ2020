@@ -10,7 +10,7 @@ public class RoomManager : MonoBehaviourPunCallbacks
     public GameObject PlayerPrefab;
     public GameObject currentCamera;
     public GameObject mainCameraPrefab;
-    
+    public ShipManager ShipManager;
     void Start()
     {
         Vector3 pos = new Vector3(Random.Range(-5f, 5f), 1, -40);
@@ -34,15 +34,20 @@ public class RoomManager : MonoBehaviourPunCallbacks
         PhotonNetwork.LeaveRoom();
     }
 
+    private int state = 0;
+    
     public override void OnLeftRoom()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(state);
     }
-
-    void OnUpdate()
+    
+    void Update()
     {
-        if(currentCamera != null)
-            currentCamera.transform.position = new Vector3();
+        // if (ShipManager != null && ShipManager.hp <= 0)
+        // {
+        //     state = 3; //Defeat
+        //     Leave();
+        // }
     }
     
     public override void OnJoinedRoom()

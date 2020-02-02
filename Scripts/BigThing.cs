@@ -4,6 +4,7 @@ using ExitGames.Client.Photon;
 using Photon.Pun;
 using Photon.Realtime;
 using UnityEngine;
+using UnityEngine.Experimental.GlobalIllumination;
 
 public class BigThing : MonoBehaviourPunCallbacks, IOnEventCallback
 {
@@ -11,6 +12,8 @@ public class BigThing : MonoBehaviourPunCallbacks, IOnEventCallback
 
     private bool networkIsBroken = false;
     public bool isBroken = false;
+    public SignalizationScript signalization;
+    public GameObject[] Lights;
 
     public void SetBroken(bool isBroken)
     {
@@ -18,6 +21,18 @@ public class BigThing : MonoBehaviourPunCallbacks, IOnEventCallback
         foreach (BrokenManager manager in brokenParts)
         {
             manager.setBrokenState(isBroken);
+            if (signalization != null)
+            {
+                signalization.setOn(isBroken);
+            }
+
+            if (Lights != null && Lights.Length > 0)
+            {
+                foreach (GameObject point in Lights)
+                {
+                    point.SetActive(!isBroken);
+                }
+            }
         }
     }
 

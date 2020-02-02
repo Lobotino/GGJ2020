@@ -58,6 +58,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -67,8 +68,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 79101399
-  m_SortingLayer: 2
+  m_SortingLayerID: 1171802957
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -4322268368349584255, guid: f26cb9f4f8d384840b997fdd4936258f,
     type: 3}
